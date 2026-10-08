@@ -1,0 +1,1 @@
+"""Contract Observatory application package."""
